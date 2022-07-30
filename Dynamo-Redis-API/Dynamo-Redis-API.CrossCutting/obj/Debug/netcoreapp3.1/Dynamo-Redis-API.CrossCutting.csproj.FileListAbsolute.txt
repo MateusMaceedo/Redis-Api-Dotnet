@@ -1,0 +1,10 @@
+C:\Users\mateu\@Projetos\Redis-Api-Dotnet\Dynamo-Redis-API\Dynamo-Redis-API.CrossCutting\bin\Debug\netcoreapp3.1\Dynamo-Redis-API.CrossCutting.deps.json
+C:\Users\mateu\@Projetos\Redis-Api-Dotnet\Dynamo-Redis-API\Dynamo-Redis-API.CrossCutting\bin\Debug\netcoreapp3.1\Dynamo-Redis-API.CrossCutting.dll
+C:\Users\mateu\@Projetos\Redis-Api-Dotnet\Dynamo-Redis-API\Dynamo-Redis-API.CrossCutting\bin\Debug\netcoreapp3.1\Dynamo-Redis-API.CrossCutting.pdb
+C:\Users\mateu\@Projetos\Redis-Api-Dotnet\Dynamo-Redis-API\Dynamo-Redis-API.CrossCutting\obj\Debug\netcoreapp3.1\Dynamo-Redis-API.CrossCutting.csproj.AssemblyReference.cache
+C:\Users\mateu\@Projetos\Redis-Api-Dotnet\Dynamo-Redis-API\Dynamo-Redis-API.CrossCutting\obj\Debug\netcoreapp3.1\Dynamo-Redis-API.CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateu\@Projetos\Redis-Api-Dotnet\Dynamo-Redis-API\Dynamo-Redis-API.CrossCutting\obj\Debug\netcoreapp3.1\Dynamo-Redis-API.CrossCutting.AssemblyInfoInputs.cache
+C:\Users\mateu\@Projetos\Redis-Api-Dotnet\Dynamo-Redis-API\Dynamo-Redis-API.CrossCutting\obj\Debug\netcoreapp3.1\Dynamo-Redis-API.CrossCutting.AssemblyInfo.cs
+C:\Users\mateu\@Projetos\Redis-Api-Dotnet\Dynamo-Redis-API\Dynamo-Redis-API.CrossCutting\obj\Debug\netcoreapp3.1\Dynamo-Redis-API.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\mateu\@Projetos\Redis-Api-Dotnet\Dynamo-Redis-API\Dynamo-Redis-API.CrossCutting\obj\Debug\netcoreapp3.1\Dynamo-Redis-API.CrossCutting.dll
+C:\Users\mateu\@Projetos\Redis-Api-Dotnet\Dynamo-Redis-API\Dynamo-Redis-API.CrossCutting\obj\Debug\netcoreapp3.1\Dynamo-Redis-API.CrossCutting.pdb

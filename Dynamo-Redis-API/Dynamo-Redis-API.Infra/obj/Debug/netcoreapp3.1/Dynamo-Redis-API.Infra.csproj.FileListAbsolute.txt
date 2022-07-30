@@ -1,0 +1,13 @@
+C:\Users\mateu\@Projetos\Redis-Api-Dotnet\Dynamo-Redis-API\Dynamo-Redis-API.Infra\bin\Debug\netcoreapp3.1\Dynamo-Redis-API.Infra.deps.json
+C:\Users\mateu\@Projetos\Redis-Api-Dotnet\Dynamo-Redis-API\Dynamo-Redis-API.Infra\bin\Debug\netcoreapp3.1\Dynamo-Redis-API.Infra.dll
+C:\Users\mateu\@Projetos\Redis-Api-Dotnet\Dynamo-Redis-API\Dynamo-Redis-API.Infra\bin\Debug\netcoreapp3.1\Dynamo-Redis-API.Infra.pdb
+C:\Users\mateu\@Projetos\Redis-Api-Dotnet\Dynamo-Redis-API\Dynamo-Redis-API.Infra\bin\Debug\netcoreapp3.1\Dynamo-Redis-API.Domain.dll
+C:\Users\mateu\@Projetos\Redis-Api-Dotnet\Dynamo-Redis-API\Dynamo-Redis-API.Infra\bin\Debug\netcoreapp3.1\Dynamo-Redis-API.Domain.pdb
+C:\Users\mateu\@Projetos\Redis-Api-Dotnet\Dynamo-Redis-API\Dynamo-Redis-API.Infra\obj\Debug\netcoreapp3.1\Dynamo-Redis-API.Infra.csproj.AssemblyReference.cache
+C:\Users\mateu\@Projetos\Redis-Api-Dotnet\Dynamo-Redis-API\Dynamo-Redis-API.Infra\obj\Debug\netcoreapp3.1\Dynamo-Redis-API.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateu\@Projetos\Redis-Api-Dotnet\Dynamo-Redis-API\Dynamo-Redis-API.Infra\obj\Debug\netcoreapp3.1\Dynamo-Redis-API.Infra.AssemblyInfoInputs.cache
+C:\Users\mateu\@Projetos\Redis-Api-Dotnet\Dynamo-Redis-API\Dynamo-Redis-API.Infra\obj\Debug\netcoreapp3.1\Dynamo-Redis-API.Infra.AssemblyInfo.cs
+C:\Users\mateu\@Projetos\Redis-Api-Dotnet\Dynamo-Redis-API\Dynamo-Redis-API.Infra\obj\Debug\netcoreapp3.1\Dynamo-Redis-API.Infra.csproj.CoreCompileInputs.cache
+C:\Users\mateu\@Projetos\Redis-Api-Dotnet\Dynamo-Redis-API\Dynamo-Redis-API.Infra\obj\Debug\netcoreapp3.1\Dynamo-Redis-API.Infra.csproj.CopyComplete
+C:\Users\mateu\@Projetos\Redis-Api-Dotnet\Dynamo-Redis-API\Dynamo-Redis-API.Infra\obj\Debug\netcoreapp3.1\Dynamo-Redis-API.Infra.dll
+C:\Users\mateu\@Projetos\Redis-Api-Dotnet\Dynamo-Redis-API\Dynamo-Redis-API.Infra\obj\Debug\netcoreapp3.1\Dynamo-Redis-API.Infra.pdb

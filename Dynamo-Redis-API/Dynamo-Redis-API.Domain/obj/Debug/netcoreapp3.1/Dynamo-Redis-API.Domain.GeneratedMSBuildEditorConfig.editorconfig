@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Dynamo_Redis_API.Domain
+build_property.ProjectDir = C:\Users\mateu\@Projetos\Redis-Api-Dotnet\Dynamo-Redis-API\Dynamo-Redis-API.Domain\

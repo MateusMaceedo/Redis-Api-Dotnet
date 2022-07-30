@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/JZ7uiYmW4iQ4u1+0SJJ/LZtiZR+NnJPs1Cb72FsRerutsq0uF3Hi69vc9UYkQnXhDFAVgDsoAc0oM8e689b6w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mateu\\@Projetos\\Redis-Api-Dotnet\\Dynamo-Redis-API\\Dynamo-Redis-API.CrossCutting\\Dynamo-Redis-API.CrossCutting.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mateu\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

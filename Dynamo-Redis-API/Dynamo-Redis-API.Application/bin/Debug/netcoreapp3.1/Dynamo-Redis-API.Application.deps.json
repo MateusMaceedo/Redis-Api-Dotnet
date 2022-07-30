@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Dynamo-Redis-API.Application/1.0.0": {
+        "dependencies": {
+          "Dynamo-Redis-API.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Dynamo-Redis-API.Application.dll": {}
+        }
+      },
+      "Dynamo-Redis-API.Domain/1.0.0": {
+        "runtime": {
+          "Dynamo-Redis-API.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dynamo-Redis-API.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Dynamo-Redis-API.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

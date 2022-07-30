@@ -1,0 +1,13 @@
+C:\Users\mateu\@Projetos\Redis-Api-Dotnet\Dynamo-Redis-API\Dynamo-Redis-API.Application\bin\Debug\netcoreapp3.1\Dynamo-Redis-API.Application.deps.json
+C:\Users\mateu\@Projetos\Redis-Api-Dotnet\Dynamo-Redis-API\Dynamo-Redis-API.Application\bin\Debug\netcoreapp3.1\Dynamo-Redis-API.Application.dll
+C:\Users\mateu\@Projetos\Redis-Api-Dotnet\Dynamo-Redis-API\Dynamo-Redis-API.Application\bin\Debug\netcoreapp3.1\Dynamo-Redis-API.Application.pdb
+C:\Users\mateu\@Projetos\Redis-Api-Dotnet\Dynamo-Redis-API\Dynamo-Redis-API.Application\bin\Debug\netcoreapp3.1\Dynamo-Redis-API.Domain.dll
+C:\Users\mateu\@Projetos\Redis-Api-Dotnet\Dynamo-Redis-API\Dynamo-Redis-API.Application\bin\Debug\netcoreapp3.1\Dynamo-Redis-API.Domain.pdb
+C:\Users\mateu\@Projetos\Redis-Api-Dotnet\Dynamo-Redis-API\Dynamo-Redis-API.Application\obj\Debug\netcoreapp3.1\Dynamo-Redis-API.Application.csproj.AssemblyReference.cache
+C:\Users\mateu\@Projetos\Redis-Api-Dotnet\Dynamo-Redis-API\Dynamo-Redis-API.Application\obj\Debug\netcoreapp3.1\Dynamo-Redis-API.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateu\@Projetos\Redis-Api-Dotnet\Dynamo-Redis-API\Dynamo-Redis-API.Application\obj\Debug\netcoreapp3.1\Dynamo-Redis-API.Application.AssemblyInfoInputs.cache
+C:\Users\mateu\@Projetos\Redis-Api-Dotnet\Dynamo-Redis-API\Dynamo-Redis-API.Application\obj\Debug\netcoreapp3.1\Dynamo-Redis-API.Application.AssemblyInfo.cs
+C:\Users\mateu\@Projetos\Redis-Api-Dotnet\Dynamo-Redis-API\Dynamo-Redis-API.Application\obj\Debug\netcoreapp3.1\Dynamo-Redis-API.Application.csproj.CoreCompileInputs.cache
+C:\Users\mateu\@Projetos\Redis-Api-Dotnet\Dynamo-Redis-API\Dynamo-Redis-API.Application\obj\Debug\netcoreapp3.1\Dynamo-Redis-API.Application.csproj.CopyComplete
+C:\Users\mateu\@Projetos\Redis-Api-Dotnet\Dynamo-Redis-API\Dynamo-Redis-API.Application\obj\Debug\netcoreapp3.1\Dynamo-Redis-API.Application.dll
+C:\Users\mateu\@Projetos\Redis-Api-Dotnet\Dynamo-Redis-API\Dynamo-Redis-API.Application\obj\Debug\netcoreapp3.1\Dynamo-Redis-API.Application.pdb

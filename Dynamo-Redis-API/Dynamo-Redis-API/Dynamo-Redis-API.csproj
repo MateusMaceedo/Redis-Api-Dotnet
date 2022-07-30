@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Dynamo_Redis_API</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AWSSDK.DynamoDBv2" Version="3.7.3.63" />
+    <PackageReference Include="StackExchange.Redis" Version="2.6.48" />
+	<PackageReference Include="Swashbuckle.AspNetCore.Filters" Version="6.1.0" />
+	<PackageReference Include="Swashbuckle.AspNetCore.SwaggerGen" Version="5.6.3" />
+	<PackageReference Include="Swashbuckle.AspNetCore.SwaggerUI" Version="5.6.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Dynamo-Redis-API.Application\Dynamo-Redis-API.Application.csproj" />
+    <ProjectReference Include="..\Dynamo-Redis-API.Domain\Dynamo-Redis-API.Domain.csproj" />
+    <ProjectReference Include="..\Dynamo-Redis-API.Infra\Dynamo-Redis-API.Infra.csproj" />
+  </ItemGroup>
+
+</Project>
