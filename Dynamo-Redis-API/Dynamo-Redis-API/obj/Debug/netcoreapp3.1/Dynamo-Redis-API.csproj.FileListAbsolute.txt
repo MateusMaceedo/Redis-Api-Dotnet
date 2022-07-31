@@ -1,3 +1,10 @@
+C:\Users\mateu\@Projetos\Redis-Api-Dotnet\Dynamo-Redis-API\Dynamo-Redis-API\obj\Debug\netcoreapp3.1\Dynamo-Redis-API.csproj.AssemblyReference.cache
+C:\Users\mateu\@Projetos\Redis-Api-Dotnet\Dynamo-Redis-API\Dynamo-Redis-API\obj\Debug\netcoreapp3.1\Dynamo-Redis-API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateu\@Projetos\Redis-Api-Dotnet\Dynamo-Redis-API\Dynamo-Redis-API\obj\Debug\netcoreapp3.1\Dynamo-Redis-API.AssemblyInfoInputs.cache
+C:\Users\mateu\@Projetos\Redis-Api-Dotnet\Dynamo-Redis-API\Dynamo-Redis-API\obj\Debug\netcoreapp3.1\Dynamo-Redis-API.AssemblyInfo.cs
+C:\Users\mateu\@Projetos\Redis-Api-Dotnet\Dynamo-Redis-API\Dynamo-Redis-API\obj\Debug\netcoreapp3.1\Dynamo-Redis-API.csproj.CoreCompileInputs.cache
+C:\Users\mateu\@Projetos\Redis-Api-Dotnet\Dynamo-Redis-API\Dynamo-Redis-API\obj\Debug\netcoreapp3.1\Dynamo-Redis-API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mateu\@Projetos\Redis-Api-Dotnet\Dynamo-Redis-API\Dynamo-Redis-API\obj\Debug\netcoreapp3.1\Dynamo-Redis-API.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\mateu\@Projetos\Redis-Api-Dotnet\Dynamo-Redis-API\Dynamo-Redis-API\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\mateu\@Projetos\Redis-Api-Dotnet\Dynamo-Redis-API\Dynamo-Redis-API\bin\Debug\netcoreapp3.1\appsettings.json
 C:\Users\mateu\@Projetos\Redis-Api-Dotnet\Dynamo-Redis-API\Dynamo-Redis-API\bin\Debug\netcoreapp3.1\Dynamo-Redis-API.exe
@@ -8,6 +15,7 @@ C:\Users\mateu\@Projetos\Redis-Api-Dotnet\Dynamo-Redis-API\Dynamo-Redis-API\bin\
 C:\Users\mateu\@Projetos\Redis-Api-Dotnet\Dynamo-Redis-API\Dynamo-Redis-API\bin\Debug\netcoreapp3.1\Dynamo-Redis-API.pdb
 C:\Users\mateu\@Projetos\Redis-Api-Dotnet\Dynamo-Redis-API\Dynamo-Redis-API\bin\Debug\netcoreapp3.1\AWSSDK.Core.dll
 C:\Users\mateu\@Projetos\Redis-Api-Dotnet\Dynamo-Redis-API\Dynamo-Redis-API\bin\Debug\netcoreapp3.1\AWSSDK.DynamoDBv2.dll
+C:\Users\mateu\@Projetos\Redis-Api-Dotnet\Dynamo-Redis-API\Dynamo-Redis-API\bin\Debug\netcoreapp3.1\AWSSDK.Extensions.NETCore.Setup.dll
 C:\Users\mateu\@Projetos\Redis-Api-Dotnet\Dynamo-Redis-API\Dynamo-Redis-API\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
 C:\Users\mateu\@Projetos\Redis-Api-Dotnet\Dynamo-Redis-API\Dynamo-Redis-API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
 C:\Users\mateu\@Projetos\Redis-Api-Dotnet\Dynamo-Redis-API\Dynamo-Redis-API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
@@ -47,13 +55,6 @@ C:\Users\mateu\@Projetos\Redis-Api-Dotnet\Dynamo-Redis-API\Dynamo-Redis-API\bin\
 C:\Users\mateu\@Projetos\Redis-Api-Dotnet\Dynamo-Redis-API\Dynamo-Redis-API\bin\Debug\netcoreapp3.1\Dynamo-Redis-API.Application.pdb
 C:\Users\mateu\@Projetos\Redis-Api-Dotnet\Dynamo-Redis-API\Dynamo-Redis-API\bin\Debug\netcoreapp3.1\Dynamo-Redis-API.Domain.pdb
 C:\Users\mateu\@Projetos\Redis-Api-Dotnet\Dynamo-Redis-API\Dynamo-Redis-API\bin\Debug\netcoreapp3.1\Dynamo-Redis-API.Infra.pdb
-C:\Users\mateu\@Projetos\Redis-Api-Dotnet\Dynamo-Redis-API\Dynamo-Redis-API\obj\Debug\netcoreapp3.1\Dynamo-Redis-API.csproj.AssemblyReference.cache
-C:\Users\mateu\@Projetos\Redis-Api-Dotnet\Dynamo-Redis-API\Dynamo-Redis-API\obj\Debug\netcoreapp3.1\Dynamo-Redis-API.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\mateu\@Projetos\Redis-Api-Dotnet\Dynamo-Redis-API\Dynamo-Redis-API\obj\Debug\netcoreapp3.1\Dynamo-Redis-API.AssemblyInfoInputs.cache
-C:\Users\mateu\@Projetos\Redis-Api-Dotnet\Dynamo-Redis-API\Dynamo-Redis-API\obj\Debug\netcoreapp3.1\Dynamo-Redis-API.AssemblyInfo.cs
-C:\Users\mateu\@Projetos\Redis-Api-Dotnet\Dynamo-Redis-API\Dynamo-Redis-API\obj\Debug\netcoreapp3.1\Dynamo-Redis-API.csproj.CoreCompileInputs.cache
-C:\Users\mateu\@Projetos\Redis-Api-Dotnet\Dynamo-Redis-API\Dynamo-Redis-API\obj\Debug\netcoreapp3.1\Dynamo-Redis-API.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\mateu\@Projetos\Redis-Api-Dotnet\Dynamo-Redis-API\Dynamo-Redis-API\obj\Debug\netcoreapp3.1\Dynamo-Redis-API.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\mateu\@Projetos\Redis-Api-Dotnet\Dynamo-Redis-API\Dynamo-Redis-API\obj\Debug\netcoreapp3.1\staticwebassets\Dynamo-Redis-API.StaticWebAssets.Manifest.cache
 C:\Users\mateu\@Projetos\Redis-Api-Dotnet\Dynamo-Redis-API\Dynamo-Redis-API\obj\Debug\netcoreapp3.1\staticwebassets\Dynamo-Redis-API.StaticWebAssets.xml
 C:\Users\mateu\@Projetos\Redis-Api-Dotnet\Dynamo-Redis-API\Dynamo-Redis-API\obj\Debug\netcoreapp3.1\scopedcss\bundle\Dynamo-Redis-API.styles.css

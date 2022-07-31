@@ -3,15 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32630.194
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dynamo-Redis-API", "Dynamo-Redis-API\Dynamo-Redis-API.csproj", "{2927A918-C5FC-47DA-A81C-77A203B9E233}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dynamo-Redis-API", "Dynamo-Redis-API\Dynamo-Redis-API.csproj", "{2927A918-C5FC-47DA-A81C-77A203B9E233}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dynamo-Redis-API.Domain", "Dynamo-Redis-API.Domain\Dynamo-Redis-API.Domain.csproj", "{464881E7-8A72-4EEA-A48D-A8EF53BB742A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dynamo-Redis-API.Domain", "Dynamo-Redis-API.Domain\Dynamo-Redis-API.Domain.csproj", "{464881E7-8A72-4EEA-A48D-A8EF53BB742A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dynamo-Redis-API.Infra", "Dynamo-Redis-API.Infra\Dynamo-Redis-API.Infra.csproj", "{CBF8C088-A2BE-43B8-B59E-83600CA50489}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dynamo-Redis-API.Infra", "Dynamo-Redis-API.Infra\Dynamo-Redis-API.Infra.csproj", "{CBF8C088-A2BE-43B8-B59E-83600CA50489}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dynamo-Redis-API.Application", "Dynamo-Redis-API.Application\Dynamo-Redis-API.Application.csproj", "{D9B50196-6AE8-4BCC-92BD-8276D0255F56}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dynamo-Redis-API.Application", "Dynamo-Redis-API.Application\Dynamo-Redis-API.Application.csproj", "{D9B50196-6AE8-4BCC-92BD-8276D0255F56}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dynamo-Redis-API.CrossCutting", "Dynamo-Redis-API.CrossCutting\Dynamo-Redis-API.CrossCutting.csproj", "{1357845E-6891-4EF6-9E81-A766935F83DF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dynamo-Redis-API.CrossCutting", "Dynamo-Redis-API.CrossCutting\Dynamo-Redis-API.CrossCutting.csproj", "{1357845E-6891-4EF6-9E81-A766935F83DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dynamo-Redis-API.Lambda", "Dynamo-Redis-API.Lambda\Dynamo-Redis-API.Lambda.csproj", "{0F068645-DD76-4591-B6DD-D7289FB103F6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{1357845E-6891-4EF6-9E81-A766935F83DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1357845E-6891-4EF6-9E81-A766935F83DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1357845E-6891-4EF6-9E81-A766935F83DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F068645-DD76-4591-B6DD-D7289FB103F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F068645-DD76-4591-B6DD-D7289FB103F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F068645-DD76-4591-B6DD-D7289FB103F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F068645-DD76-4591-B6DD-D7289FB103F6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

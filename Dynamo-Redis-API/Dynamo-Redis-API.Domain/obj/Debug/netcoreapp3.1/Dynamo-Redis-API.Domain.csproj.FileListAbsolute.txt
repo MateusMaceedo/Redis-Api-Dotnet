@@ -1,6 +1,7 @@
 C:\Users\mateu\@Projetos\Redis-Api-Dotnet\Dynamo-Redis-API\Dynamo-Redis-API.Domain\bin\Debug\netcoreapp3.1\Dynamo-Redis-API.Domain.deps.json
 C:\Users\mateu\@Projetos\Redis-Api-Dotnet\Dynamo-Redis-API\Dynamo-Redis-API.Domain\bin\Debug\netcoreapp3.1\Dynamo-Redis-API.Domain.dll
 C:\Users\mateu\@Projetos\Redis-Api-Dotnet\Dynamo-Redis-API\Dynamo-Redis-API.Domain\bin\Debug\netcoreapp3.1\Dynamo-Redis-API.Domain.pdb
+C:\Users\mateu\@Projetos\Redis-Api-Dotnet\Dynamo-Redis-API\Dynamo-Redis-API.Domain\obj\Debug\netcoreapp3.1\Dynamo-Redis-API.Domain.csproj.AssemblyReference.cache
 C:\Users\mateu\@Projetos\Redis-Api-Dotnet\Dynamo-Redis-API\Dynamo-Redis-API.Domain\obj\Debug\netcoreapp3.1\Dynamo-Redis-API.Domain.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\mateu\@Projetos\Redis-Api-Dotnet\Dynamo-Redis-API\Dynamo-Redis-API.Domain\obj\Debug\netcoreapp3.1\Dynamo-Redis-API.Domain.AssemblyInfoInputs.cache
 C:\Users\mateu\@Projetos\Redis-Api-Dotnet\Dynamo-Redis-API\Dynamo-Redis-API.Domain\obj\Debug\netcoreapp3.1\Dynamo-Redis-API.Domain.AssemblyInfo.cs

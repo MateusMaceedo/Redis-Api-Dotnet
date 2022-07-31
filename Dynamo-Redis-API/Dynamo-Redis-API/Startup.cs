@@ -38,6 +38,10 @@ namespace Dynamo_Redis_API
             x.GetRequiredService<IAmazonDynamoDB>(),
             x.GetRequiredService<IConnectionMultiplexer>(), Configuration.GetValue<string>("DynamoDb:TableName")));
 
+            services.AddDefaultAWSOptions(Configuration.GetAWSOptions("DynamoDb"));
+            services.AddSingleton<IProductRepository, ProductRepository>();
+            services.AddAWSService<IAmazonDynamoDB>();
+
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo

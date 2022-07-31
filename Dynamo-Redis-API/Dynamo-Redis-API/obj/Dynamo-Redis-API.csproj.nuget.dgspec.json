@@ -234,6 +234,10 @@
               "target": "Package",
               "version": "[3.7.3.63, )"
             },
+            "AWSSDK.Extensions.NETCore.Setup": {
+              "target": "Package",
+              "version": "[3.7.2, )"
+            },
             "StackExchange.Redis": {
               "target": "Package",
               "version": "[2.6.48, )"
